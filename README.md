@@ -9,7 +9,8 @@ Khách hàng:
 - Có thể tìm kiếm tên sách, thể loại, tác giả, ....
 - Có thể đọc thử sách.
 - Có thể xem các thông tin về sách.
-- Đặt mua sách.  
+- Đặt mua sách.
+
 Admin:   
 - Quản lý sách
 - Có thể thay đổi thông tin về sách
